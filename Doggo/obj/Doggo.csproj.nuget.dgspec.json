@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Billy Blackman\\source\\repos\\Doggo\\Doggo\\Doggo.csproj": {}
+    "C:\\Users\\Billy Blackman\\Documents\\Workspace\\Doggo\\Doggo\\Doggo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Billy Blackman\\source\\repos\\Doggo\\Doggo\\Doggo.csproj": {
+    "C:\\Users\\Billy Blackman\\Documents\\Workspace\\Doggo\\Doggo\\Doggo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Billy Blackman\\source\\repos\\Doggo\\Doggo\\Doggo.csproj",
+        "projectUniqueName": "C:\\Users\\Billy Blackman\\Documents\\Workspace\\Doggo\\Doggo\\Doggo.csproj",
         "projectName": "Doggo",
-        "projectPath": "C:\\Users\\Billy Blackman\\source\\repos\\Doggo\\Doggo\\Doggo.csproj",
+        "projectPath": "C:\\Users\\Billy Blackman\\Documents\\Workspace\\Doggo\\Doggo\\Doggo.csproj",
         "packagesPath": "C:\\Users\\Billy Blackman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Billy Blackman\\source\\repos\\Doggo\\Doggo\\obj\\",
+        "outputPath": "C:\\Users\\Billy Blackman\\Documents\\Workspace\\Doggo\\Doggo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Billy Blackman\\AppData\\Roaming\\NuGet\\NuGet.Config",

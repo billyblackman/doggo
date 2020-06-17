@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SXMcLKpu0uqnGhY5xN5tcbgegc3mgY6PLW987oA6gb2SgwJs2Xd8G5e6RaYRg1A0RQAdysaqRge+oG1+Yvwv4A==",
+  "dgSpecHash": "u5FQSTx03Scyp2ahvCu5AGScwdy94/363mSVYPECVW4jhf3O+OEdJJGC4cOFpJvaGD+BdMbfQi9K3/9pVdN/IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Billy Blackman\\source\\repos\\Doggo\\Doggo\\Doggo.csproj",
+  "projectFilePath": "C:\\Users\\Billy Blackman\\Documents\\Workspace\\Doggo\\Doggo\\Doggo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Billy Blackman\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Billy Blackman\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
